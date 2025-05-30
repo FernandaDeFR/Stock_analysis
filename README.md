@@ -3,7 +3,7 @@ This project parses stock data from an Excel file and creates a bar graph repres
 
 ## Features
 
-- Reads stock data from an Excel or CSV file
+- Reads stock data from an Excel file
 - Plots the total quantity of each stock as a bar chart
 - Lightweight and easy to use
 
