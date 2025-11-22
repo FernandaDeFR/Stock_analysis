@@ -1,11 +1,11 @@
-# 📊 Stock Analysis
+# Stock Analysis
 
 A simple Python project for analyzing and visualizing stock portfolio data from an Excel file.  
 It reads your stock holdings, calculates total quantities, and generates a bar chart showing your portfolio distribution.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Reads stock holdings from an Excel file.  
 - Aggregates total quantities per stock symbol.  
@@ -14,7 +14,7 @@ It reads your stock holdings, calculates total quantities, and generates a bar c
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 .
@@ -28,7 +28,7 @@ It reads your stock holdings, calculates total quantities, and generates a bar c
 
 ---
 
-## 💡 How to Use
+## How to Use
 
 1. Clone this repository:
    ```bash
@@ -49,7 +49,7 @@ It reads your stock holdings, calculates total quantities, and generates a bar c
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 - **Python 3**  
 - **pandas** – for data manipulation  
@@ -58,7 +58,7 @@ It reads your stock holdings, calculates total quantities, and generates a bar c
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 This project was created to:
 - Analyze how a portfolio is distributed across different stocks.  
@@ -67,7 +67,7 @@ This project was created to:
 
 ---
 
-## 📈 Future Improvements
+## Future Improvements
 
 - Include total investment value per stock (based on current price).  
 - Support CSV and JSON input formats.  
@@ -76,7 +76,7 @@ This project was created to:
 
 ---
 
-## 👩🏻‍💻 Author
+## Author
 
 **Fernanda de Faria Rodrigues**  
 🔗 [GitHub Profile](https://github.com/FernandaDeFR)
